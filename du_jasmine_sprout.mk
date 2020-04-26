@@ -43,3 +43,5 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := du_jasmine_sprout
 PRODUCT_DEVICE := jasmine_sprout
 PRODUCT_MODEL := Mi A2
+
+DU_BUILD_TYPE := OFFICIAL
