@@ -1,26 +1,26 @@
 [
   {
-    "remote":      "github",
-    "repository":  "Corvus-Devices/android_device_xiaomi_sdm660-common",
+    "repository":  "CorvusRom-Devices/android_device_xiaomi_sdm660-common",
     "target_path": "device/xiaomi/sdm660-common",
-    "revision":      "Corvus"
+    "branch": "10",
+    "remote": "github"
   },
   {
-    "remote":      "github",
-    "repository":  "Corvus-Devices/android_kernel_xiaomi_sdm660",
-    "target_path": "kernel/xiaomi/sdm660",
-    "revision":      "Corvus"
-  },
-  {
-    "remote":      "github",
-    "repository":  "Corvus-Devices/android_vendor_xiaomi_wayne",
-    "target_path": "vendor/xiaomi/wayne",
-    "revision":      "Corvus"
-  },
-  {
-    "remote":      "github",
-    "repository":  "Corvus-Devices/android_vendor_xiaomi_sdm660-common",
+    "repository":  "CorvusRom-Devices/android_vendor_xiaomi_sdm660-common",
     "target_path": "vendor/xiaomi/sdm660-common",
-    "revision":      "Corvus"
+    "branch": "10",
+    "remote": "github"
   },
+  {
+    "repository":  "CorvusRom-Devices/vendor_xiaomi_wayne-common",
+    "target_path": "vendor/xiaomi/wayne-common",
+    "branch": "10",
+    "remote": "github"
+  },
+  {
+    "repository":  "xiaomi-sdm660/android_kernel_xiaomi_sdm660",
+    "target_path": "kernel/xiaomi/sdm660",
+    "branch": "master",
+    "remote": "github"
+  }
 ]
